@@ -1,3 +1,5 @@
+/* Length of longest common substring - Dynamic Programming */
+
 package stringunique;
 
 import java.io.BufferedReader;
